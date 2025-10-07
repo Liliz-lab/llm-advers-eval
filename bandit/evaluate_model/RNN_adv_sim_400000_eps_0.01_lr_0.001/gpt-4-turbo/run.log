@@ -1,0 +1,108 @@
+2024-05-02 13:00:53,124 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 13:00:53,125 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-8000.h5
+2024-05-02 13:00:53,264 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-50000.h5
+2024-05-02 13:00:53,339 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 13:00:53,340 - ADV - DEBUG - sim 0
+2024-05-02 13:01:53,964 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 13:01:53,964 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-8000.h5
+2024-05-02 13:01:54,102 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-50000.h5
+2024-05-02 13:01:54,179 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 13:01:54,180 - ADV - DEBUG - sim 0
+2024-05-02 13:03:37,806 - ADV - DEBUG - sim 1
+2024-05-02 13:05:46,498 - ADV - DEBUG - sim 2
+2024-05-02 13:08:01,735 - ADV - DEBUG - sim 3
+2024-05-02 14:24:21,766 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 14:24:21,767 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-8000.h5
+2024-05-02 14:24:22,120 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-200000.h5
+2024-05-02 14:24:22,209 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 14:24:26,562 - ADV - DEBUG - sim 0
+2024-05-02 14:26:08,696 - ADV - DEBUG - sim 1
+2024-05-02 14:28:42,501 - ADV - DEBUG - sim 2
+2024-05-02 14:30:59,684 - ADV - DEBUG - sim 3
+2024-05-02 14:32:58,791 - ADV - DEBUG - sim 4
+2024-05-02 16:48:11,150 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 16:48:11,151 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-8000.h5
+2024-05-02 16:48:11,569 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-170000.h5
+2024-05-02 16:48:11,657 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 16:48:11,658 - ADV - DEBUG - sim 0
+2024-05-02 18:29:31,312 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 18:29:31,313 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-02 18:29:31,661 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-250000.h5
+2024-05-02 18:29:31,775 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-02 18:29:31,776 - ADV - DEBUG - sim 0
+2024-05-02 18:32:00,589 - ADV - DEBUG - sim 1
+2024-05-03 08:47:38,844 - ADV - DEBUG - sim 2
+2024-05-03 08:49:19,727 - ADV - DEBUG - sim 3
+2024-05-03 08:51:14,584 - ADV - DEBUG - sim 4
+2024-05-03 08:54:11,016 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-03 08:54:11,017 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-03 08:54:11,390 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-250000.h5
+2024-05-03 08:54:11,496 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-03 08:54:11,497 - ADV - DEBUG - sim 5
+2024-05-08 16:35:17,536 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 16:35:17,536 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-08 16:35:17,761 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-250000.h5
+2024-05-08 16:35:17,842 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 16:35:17,842 - ADV - DEBUG - sim 5
+2024-05-08 16:37:26,015 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 16:37:26,015 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-08 16:37:26,157 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-100000.h5
+2024-05-08 16:37:26,234 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 16:37:26,235 - ADV - DEBUG - sim 5
+2024-05-08 16:39:47,248 - ADV - DEBUG - sim 6
+2024-05-08 16:41:43,452 - ADV - DEBUG - sim 7
+2024-05-08 16:43:36,786 - ADV - DEBUG - sim 8
+2024-05-08 16:46:00,025 - ADV - DEBUG - sim 9
+2024-05-09 16:20:50,663 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-09 16:20:50,664 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-09 16:20:50,986 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-100000.h5
+2024-05-09 16:20:51,114 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-09 16:20:51,115 - ADV - DEBUG - sim 10
+2024-05-09 16:23:11,688 - ADV - DEBUG - sim 11
+2024-05-09 16:25:12,573 - ADV - DEBUG - sim 12
+2024-05-09 16:26:41,866 - ADV - DEBUG - sim 13
+2024-05-09 16:28:28,156 - ADV - DEBUG - sim 14
+2024-05-09 16:30:13,922 - ADV - DEBUG - sim 15
+2024-05-09 16:33:55,427 - ADV - DEBUG - sim 16
+2024-05-09 16:35:27,382 - ADV - DEBUG - sim 17
+2024-05-09 16:37:13,459 - ADV - DEBUG - sim 18
+2024-05-09 16:38:40,720 - ADV - DEBUG - sim 19
+2024-05-09 16:40:20,248 - ADV - DEBUG - sim 20
+2024-05-09 17:13:25,197 - ADV - DEBUG - sim 21
+2024-05-09 17:15:34,211 - ADV - DEBUG - sim 22
+2024-05-09 17:17:59,049 - ADV - DEBUG - sim 23
+2024-05-09 17:19:35,948 - ADV - DEBUG - sim 24
+2024-05-09 17:21:27,645 - ADV - DEBUG - sim 25
+2024-05-09 17:23:39,758 - ADV - DEBUG - sim 26
+2024-05-09 22:39:24,835 - ADV - DEBUG - sim 27
+2024-05-09 22:41:10,266 - ADV - DEBUG - sim 28
+2024-05-09 22:42:48,353 - ADV - DEBUG - sim 29
+2024-05-10 17:32:05,276 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-10 17:32:05,277 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-10 17:32:05,520 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-100000.h5
+2024-05-10 17:32:05,601 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-10 17:32:05,601 - ADV - DEBUG - sim 30
+2024-05-10 17:33:51,913 - ADV - DEBUG - sim 31
+2024-05-10 17:35:39,465 - ADV - DEBUG - sim 32
+2024-05-10 17:37:12,546 - ADV - DEBUG - sim 33
+2024-05-10 17:39:14,186 - ADV - DEBUG - sim 34
+2024-05-10 17:41:06,835 - ADV - DEBUG - sim 35
+2024-05-10 17:44:29,277 - ADV - DEBUG - sim 36
+2024-05-10 17:46:34,921 - ADV - DEBUG - sim 37
+2024-05-10 17:48:08,106 - ADV - DEBUG - sim 38
+2024-05-10 17:50:05,748 - ADV - DEBUG - sim 39
+2024-05-10 17:52:03,056 - ADV - DEBUG - sim 40
+2024-05-10 17:53:45,135 - ADV - DEBUG - sim 41
+2024-05-10 17:55:30,309 - ADV - DEBUG - sim 42
+2024-05-10 17:57:01,411 - ADV - DEBUG - sim 43
+2024-05-10 17:59:02,951 - ADV - DEBUG - sim 44
+2024-05-10 18:00:35,164 - ADV - DEBUG - sim 45
+2024-05-10 18:02:07,135 - ADV - DEBUG - sim 46
+2024-05-10 18:03:48,650 - ADV - DEBUG - sim 47
+2024-05-10 18:12:37,942 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-10 18:12:37,943 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-4-turbo/model-1000.h5
+2024-05-10 18:12:38,090 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-4-turbo/model-100000.h5
+2024-05-10 18:12:38,182 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-10 18:12:38,183 - ADV - DEBUG - sim 47
+2024-05-10 18:14:07,564 - ADV - DEBUG - sim 48
+2024-05-10 18:15:38,794 - ADV - DEBUG - sim 49

@@ -1,0 +1,91 @@
+2024-08-29 22:13:29,373 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:13:29,373 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-29 22:13:29,447 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-20000.h5
+2024-08-29 22:13:29,480 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:13:29,480 - ADV - DEBUG - sim 11
+2024-08-29 22:14:17,587 - ADV - DEBUG - sim 12
+2024-08-29 22:15:21,712 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:15:21,712 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-29 22:15:21,786 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-20000.h5
+2024-08-29 22:15:21,819 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:15:21,819 - ADV - DEBUG - sim 1
+2024-08-29 22:16:26,919 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:16:26,919 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-29 22:16:26,993 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-100000.h5
+2024-08-29 22:16:27,028 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:16:27,029 - ADV - DEBUG - sim 1
+2024-08-29 22:16:54,576 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:16:54,576 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-29 22:16:54,650 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-50000.h5
+2024-08-29 22:16:54,685 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:16:54,686 - ADV - DEBUG - sim 1
+2024-08-29 22:17:21,044 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:17:21,044 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-29 22:17:21,119 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-80000.h5
+2024-08-29 22:17:21,154 - ADV - DEBUG - version control: (None, None)
+2024-08-29 22:17:21,154 - ADV - DEBUG - sim 1
+2024-08-29 22:18:10,256 - ADV - DEBUG - sim 2
+2024-08-29 22:18:57,994 - ADV - DEBUG - sim 3
+2024-08-30 09:12:25,406 - ADV - DEBUG - version control: (None, None)
+2024-08-30 09:12:25,406 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-30 09:12:25,517 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-100000.h5
+2024-08-30 09:12:25,551 - ADV - DEBUG - version control: (None, None)
+2024-08-30 09:12:25,551 - ADV - DEBUG - sim 1
+2024-08-30 09:13:12,272 - ADV - DEBUG - sim 2
+2024-08-30 09:13:58,725 - ADV - DEBUG - sim 3
+2024-08-30 09:14:45,222 - ADV - DEBUG - sim 4
+2024-08-30 09:18:11,276 - ADV - DEBUG - version control: (None, None)
+2024-08-30 09:18:11,277 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-30 09:18:11,353 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-100000.h5
+2024-08-30 09:18:11,388 - ADV - DEBUG - version control: (None, None)
+2024-08-30 09:18:11,388 - ADV - DEBUG - sim 3
+2024-08-30 09:18:58,302 - ADV - DEBUG - sim 4
+2024-08-30 09:19:44,877 - ADV - DEBUG - sim 5
+2024-08-30 09:20:31,269 - ADV - DEBUG - sim 6
+2024-08-30 09:21:18,782 - ADV - DEBUG - sim 7
+2024-08-30 09:22:06,079 - ADV - DEBUG - sim 8
+2024-08-30 09:22:53,028 - ADV - DEBUG - sim 9
+2024-08-30 09:23:39,889 - ADV - DEBUG - sim 10
+2024-08-30 09:24:26,176 - ADV - DEBUG - sim 11
+2024-08-30 09:25:12,562 - ADV - DEBUG - sim 12
+2024-08-30 09:25:59,660 - ADV - DEBUG - sim 13
+2024-08-30 09:26:46,836 - ADV - DEBUG - sim 14
+2024-08-30 09:27:34,588 - ADV - DEBUG - sim 15
+2024-08-30 09:28:22,821 - ADV - DEBUG - sim 16
+2024-08-30 09:29:10,182 - ADV - DEBUG - sim 17
+2024-08-30 09:29:57,460 - ADV - DEBUG - sim 18
+2024-08-30 09:30:44,849 - ADV - DEBUG - sim 19
+2024-08-30 09:43:24,540 - ADV - DEBUG - version control: (None, None)
+2024-08-30 09:43:24,540 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gemini_1.5/model-2000.h5
+2024-08-30 09:43:24,651 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gemini_1.5/model-100000.h5
+2024-08-30 09:43:24,685 - ADV - DEBUG - version control: (None, None)
+2024-08-30 09:43:24,685 - ADV - DEBUG - sim 20
+2024-08-30 09:44:15,211 - ADV - DEBUG - sim 21
+2024-08-30 09:45:03,859 - ADV - DEBUG - sim 22
+2024-08-30 09:45:52,002 - ADV - DEBUG - sim 23
+2024-08-30 09:46:39,851 - ADV - DEBUG - sim 24
+2024-08-30 09:47:29,183 - ADV - DEBUG - sim 25
+2024-08-30 09:48:15,268 - ADV - DEBUG - sim 26
+2024-08-30 09:49:02,268 - ADV - DEBUG - sim 27
+2024-08-30 09:49:50,272 - ADV - DEBUG - sim 28
+2024-08-30 09:50:37,810 - ADV - DEBUG - sim 29
+2024-08-30 09:51:26,138 - ADV - DEBUG - sim 30
+2024-08-30 09:52:13,310 - ADV - DEBUG - sim 31
+2024-08-30 09:52:59,126 - ADV - DEBUG - sim 32
+2024-08-30 09:53:46,433 - ADV - DEBUG - sim 33
+2024-08-30 09:54:36,193 - ADV - DEBUG - sim 34
+2024-08-30 09:55:23,913 - ADV - DEBUG - sim 35
+2024-08-30 09:56:11,226 - ADV - DEBUG - sim 36
+2024-08-30 09:56:59,256 - ADV - DEBUG - sim 37
+2024-08-30 09:57:47,291 - ADV - DEBUG - sim 38
+2024-08-30 09:58:33,814 - ADV - DEBUG - sim 39
+2024-08-30 09:59:21,413 - ADV - DEBUG - sim 40
+2024-08-30 10:00:09,512 - ADV - DEBUG - sim 41
+2024-08-30 10:00:57,437 - ADV - DEBUG - sim 42
+2024-08-30 10:01:45,356 - ADV - DEBUG - sim 43
+2024-08-30 10:02:32,867 - ADV - DEBUG - sim 44
+2024-08-30 10:03:20,497 - ADV - DEBUG - sim 45
+2024-08-30 10:04:07,819 - ADV - DEBUG - sim 46
+2024-08-30 10:04:54,493 - ADV - DEBUG - sim 47
+2024-08-30 10:05:43,139 - ADV - DEBUG - sim 48
+2024-08-30 10:06:30,262 - ADV - DEBUG - sim 49

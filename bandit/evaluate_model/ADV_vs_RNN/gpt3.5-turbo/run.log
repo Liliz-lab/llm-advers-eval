@@ -1,0 +1,53 @@
+2024-05-08 15:06:08,544 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:06:08,545 - ADV - DEBUG - Real model is not provided -- using learner for selecting actions.
+2024-05-08 15:06:08,545 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt3.5-turbo/model-8600.h5
+2024-05-08 15:07:02,525 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:07:02,525 - ADV - DEBUG - Real model is not provided -- using learner for selecting actions.
+2024-05-08 15:07:02,525 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-3.5-turbo/model-8600.h5
+2024-05-08 15:07:02,669 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-3.5-turbo/model-100000.h5
+2024-05-08 15:07:02,803 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:07:02,804 - ADV - DEBUG - sim 10
+2024-05-08 15:07:05,687 - ADV - DEBUG - sim 11
+2024-05-08 15:07:33,278 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:07:33,278 - ADV - DEBUG - Real model is not provided -- using learner for selecting actions.
+2024-05-08 15:07:33,278 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-3.5-turbo/model-8600.h5
+2024-05-08 15:07:33,419 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-3.5-turbo/model-100000.h5
+2024-05-08 15:07:33,550 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:07:33,551 - ADV - DEBUG - sim 1
+2024-05-08 15:07:36,443 - ADV - DEBUG - sim 2
+2024-05-08 15:07:39,220 - ADV - DEBUG - sim 3
+2024-05-08 15:07:41,994 - ADV - DEBUG - sim 4
+2024-05-08 15:07:44,790 - ADV - DEBUG - sim 5
+2024-05-08 15:07:47,570 - ADV - DEBUG - sim 6
+2024-05-08 15:07:50,344 - ADV - DEBUG - sim 7
+2024-05-08 15:07:53,106 - ADV - DEBUG - sim 8
+2024-05-08 15:07:55,976 - ADV - DEBUG - sim 9
+2024-05-08 15:07:58,758 - ADV - DEBUG - sim 10
+2024-05-08 15:08:01,538 - ADV - DEBUG - sim 11
+2024-05-08 15:08:04,352 - ADV - DEBUG - sim 12
+2024-05-08 15:08:07,161 - ADV - DEBUG - sim 13
+2024-05-08 15:08:10,022 - ADV - DEBUG - sim 14
+2024-05-08 15:08:12,823 - ADV - DEBUG - sim 15
+2024-05-08 15:08:15,627 - ADV - DEBUG - sim 16
+2024-05-08 15:08:18,518 - ADV - DEBUG - sim 17
+2024-05-08 15:08:21,294 - ADV - DEBUG - sim 18
+2024-05-08 15:08:24,126 - ADV - DEBUG - sim 19
+2024-05-08 15:44:51,618 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:44:51,619 - ADV - DEBUG - Real model is not provided -- using learner for selecting actions.
+2024-05-08 15:44:51,619 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-3.5-turbo/model-8600.h5
+2024-05-08 15:44:51,762 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-3.5-turbo/model-100000.h5
+2024-05-08 15:44:51,899 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:44:51,899 - ADV - DEBUG - sim 20
+2024-05-08 15:44:54,761 - ADV - DEBUG - sim 21
+2024-05-08 15:44:57,563 - ADV - DEBUG - sim 22
+2024-05-08 15:45:00,386 - ADV - DEBUG - sim 23
+2024-05-08 15:45:03,175 - ADV - DEBUG - sim 24
+2024-05-08 15:52:11,195 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:52:11,195 - ADV - DEBUG - Real model is not provided -- using learner for selecting actions.
+2024-05-08 15:52:11,195 - ADV - DEBUG - Learner model loaded from path trained_model/RNN_learner_single/cells_5gpt-3.5-turbo/model-8600.h5
+2024-05-08 15:52:11,335 - ADV - DEBUG - Adv model loaded from path trained_model/adv_RL_400000_eps_0.01_lr_0.001/gpt-3.5-turbo/model-100000.h5
+2024-05-08 15:52:11,471 - ADV - DEBUG - version control: ('615dc88e2517ac3d9cf1aa32fbe0d82eb972a1cd', 'main')
+2024-05-08 15:52:11,471 - ADV - DEBUG - sim 26
+2024-05-08 15:52:14,312 - ADV - DEBUG - sim 27
+2024-05-08 15:52:17,113 - ADV - DEBUG - sim 28
+2024-05-08 15:52:19,978 - ADV - DEBUG - sim 29
